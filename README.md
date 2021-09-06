@@ -3,8 +3,8 @@
 
 ## Лабораторная 1
 
-# Домашнии задания
+# Домашние задание
 
-## [Семинар 1](https://github.com/stankin/design-part-1/wiki/sem1#%D0%9C%D0%B0..)
+## По [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1#%D0%9C%D0%B0..)
 
 
