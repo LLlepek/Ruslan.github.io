@@ -8,5 +8,4 @@
 ## По [семинару 4]()
 
 # По лабораторным:
-## По [Лабораторной 1](https://github.com/LLlepek/Ruslan.github.io/blob/main/laba1/laba1.md)
-## По [Лабораторной 2](https://github.com/LLlepek/Ruslan.github.io/blob/main/laba2/laba2.md)
+## По [Лабораторным 1-3](https://github.com/LLlepek/Ruslan.github.io/blob/main/laba1/laba1.md)
