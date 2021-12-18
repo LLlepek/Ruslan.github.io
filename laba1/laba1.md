@@ -44,3 +44,6 @@
 ## Диаграмма прецидентов
 
 ![blah](http://www.plantuml.com/plantuml/png/VP8nJyCm48Nt_8fJMM3mm0e8TMP5OdTJGor28jck45A75YOMAZ6pL0oi1L5QMW9_uUuVSI6o8YAxWnNblU_UMI_fMYUD6rvbIQRE7RW2ZBuOEEXherAdYpoHgIiCu0ikS8FV-CRFDUnS3xHJXvdErK4la-cbnvxOBlcyumSkQ1m7d_67nZZdl0rDwO7kSOMVKRo3ZnpwAcXIfVBGYYOTa1REL2ywTAADZ9hxEDkoRLOje5lU-OLpeBlciYoLR4x_jf_Us438qAfKMWMxkEIPDP_bNW1BeDtgqKY8G8Kr7gHZFJOpxJGXMlVoP3WfolzNcQhQZhjSTsFo2skZuxe_hrO1jSmVrSjTbVVvx_m5)
+
+***
+# Лабораторная работа 3
