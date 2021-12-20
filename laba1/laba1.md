@@ -47,3 +47,21 @@
 
 ***
 # Лабораторная работа 3
+
+## DFD-диаграмма(Забрать заказ)
+
+![none](https://github.com/LLlepek/Ruslan.github.io/blob/main/laba3/model.png)
+
+Менеджер по закупкам получает товар со склада интернет магазина и доставляет в офис фирмы, после этого обновляет статус заказа, и вносит в форму "Новое оборудование" данные о новых устройстках. После Этого IT-команда сможет выдать новые устройства.
+
+## Диаграмма последовательностей
+
+![blah](http://www.plantuml.com/plantuml/png/ZP91IiGm58RtESKZhkS2BcHSkd3dobrq0XPjfdPIn5t14mY26z4hZDBE37MiL_Xp8ryUbh5YYuL0-_9zx_q9dIwyoNsHNYbpxkSvQJoXnWUl2YlKeIHyeYMiiKGJxlYZuRUj9hEWO-jex-OYyLQTpGitC_ajyOENK6A3TxHOIQyDQehyOPRznMiyunLjABbznT8R3n19_xQiyuaN9rhtU20ynboyrbggKJWrboF2u2msxNMHP2bBttvt9qT-WeRfhT0LbaAVM9Dse5BnCcXo877tV-HIN90DZjNVuCAGm7LftzleZnWyIJTmTvenU0VzlxD46-Ecritub_e2)
+
+Менеджер по закупкам обновляет Статус у заказа и добавляет новую информацию об устройствах через приложение в базу данных. IT-команда через приложение получает информацию о том что заказ получен и информацию о новых устройсвах из БД
+
+## ER-диаграмма
+
+![none](https://github.com/LLlepek/Ruslan.github.io/blob/main/laba3/ER.jpg)
+
+Информационный поток состоит из двух баз данных: Заказ и Оборудование. Заказ состоит из: Номер заказа, Дата оформления, Описание, Кто оформил, Статус. Оборудование состоит из: Нормер, Тип устройства, Производитель, Модель, Год производства, ОС, Где находится.
